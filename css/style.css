@@ -11,8 +11,8 @@ main{
  margin-bottom: 10px;
 }
 /* artigos */
-.artigos section{
-    padding-bottom: 15px;
+.artigos .btn{
+    margin-bottom: 15px;
 }
 /* menu lateral*/
 .titulo-secundario{
