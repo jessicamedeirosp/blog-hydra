@@ -1,0 +1,78 @@
+ /* logo */
+ a.navbar-brand img {
+    max-width: 50px;
+}
+/* conteudo central main */
+main{
+    padding:40px 15px;
+}
+/*propaganda */
+.propaganda{
+ margin-bottom: 10px;
+}
+/* artigos */
+.artigos section{
+    padding-bottom: 15px;
+}
+/* menu lateral*/
+.titulo-secundario{
+    border-bottom: 3px solid #dc3545;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+/* menu redes sociais*/
+.navbar-rs{
+    display: block;
+    padding: 0;
+}
+.navbar-rs li{
+    display: inline-block
+}
+.navbar-rs > li{
+    padding-right: 15px;
+}
+.navbar-rs li a img{
+   max-width: 40px;
+}
+/* menu redes categoria e artigo*/            
+.navbar-categoria, .navbar-artigo{
+    padding: 0;
+    list-style: none;
+    
+}
+.navbar-categoria li a, .navbar-artigo li a{
+    color: #000;
+}            
+.bg-dark {
+    background-color: #010101!important;
+}
+/* artigo */
+.titulo-artigo{
+    margin-top: 30px;
+}
+.dados-artigo{
+    margin-bottom: 15px;
+}
+/* footer, rodape*/
+.footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #000;
+    
+}
+.footer *{
+    color:#fff
+}
+.footer ul {
+   padding:  0 0 0 20px
+}
+.copy{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #dc3545;
+}
+.copy p{
+    padding: 0;
+    margin: 0;
+    color:#fff;
+}
