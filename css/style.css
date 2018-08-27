@@ -1,4 +1,12 @@
- /* logo */
+body{
+    background-image: url('../img/fundo.jpg');
+}
+.container.fundo{
+    background: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+/* logo */
  a.navbar-brand img {
     max-width: 50px;
 }
